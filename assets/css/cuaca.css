@@ -1,0 +1,14 @@
+.cuaca-container {
+	background-color: lightgoldenrodyellow;
+	text-align: center;
+}
+.cuaca {
+	font-size: 22px;
+	margin: 0;
+}
+
+.temp {
+	font-size: 60px;
+	margin: 0;
+	font-weight: bold;
+}
